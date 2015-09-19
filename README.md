@@ -14,4 +14,5 @@ Turbotax Answer Exchange Data. URL [https://www.dropbox.com/s/5bc58el3v3ohwaw/ou
 * Add new column finding out a key word from Reply column regarding to home, baby and married.
 
 ###Aproach 1
-0. temp
+0. Make a model using any available data mining tool like weka or rapid miner.
+0. te
