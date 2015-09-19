@@ -28,3 +28,9 @@ Turbotax Answer Exchange Data. URL [https://www.dropbox.com/s/5bc58el3v3ohwaw/ou
 ###Aproach 2 (Use text mining and show the results with high UI)
 0. I would go for simple k-means clustering algorithm and divide the output into my expected three clusters (Objectives).
 1. Then based on this clustering make an app with UI which shows the user a result with high graphics and UI.
+
+####Notes: 
+* index.html file is expected form to be designed using css and javascipt. Even we can import it in other jsp if needed.
+* model_decision_tree.jpg is just a high level image of what should be expected after applying data mining algorithm on updated raw data. There will be many nodes unlike in the image.
+* output_flow.jpg displays how output should be achieved from the reason entered in the form by user
+* There will be more classes at the back end depending on the architecture used like SPRING MVC or RESTFul webservices in java.
